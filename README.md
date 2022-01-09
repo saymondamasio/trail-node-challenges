@@ -1,5 +1,5 @@
-# 🚀 Desafios da trilha React - Ignite
+# 🚀 Desafios da trilha Node - Ignite
 
-Desafios da trilha React da @Rocketseat
+Desafios da trilha Node da @Rocketseat
 
 <img align="center" src=".github/cover.png"/>
